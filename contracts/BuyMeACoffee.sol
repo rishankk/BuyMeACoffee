@@ -2,8 +2,7 @@
 pragma solidity ^0.8.0;
 
 // Import this file to use console.log
-//deployed on goerli at - 0x03639034b9B0EF778103D0E51147230998Be2000
-//deployed with challenge at - 0xfea0976DFB93E1Ca33AA80B8c3Bb193939518852
+
 contract BuyMeACoffee {
     event NewMemo(
         address indexed from,
